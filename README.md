@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin Philipose 👋
+# Hi, I'm Benjamin Philipose
 
 **Computer Vision Engineer @ Meta** · Seattle, WA
 
