@@ -1,13 +1,10 @@
 # Hi, I'm Benjamin Philipose
-
-**Computer Vision Engineer @ Meta** · Seattle, WA
-
+**Algorithms Engineer @ Meta Reality Labs** · Seattle, WA
 I build systems at the intersection of AI, computer vision, and distributed computing. CS&E grad from Seattle University.
 
 ---
 
 ### 🛠 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -21,19 +18,18 @@ I build systems at the intersection of AI, computer vision, and distributed comp
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [autism-detection-gcn](https://github.com/bphilipose1/autism-detection-gcn) | ASD diagnosis on ABIDE I using graph neural networks on fMRI data | Python, PyTorch |
 | [AgeFacePredictionDNN](https://github.com/bphilipose1/AgeFacePredictionDNN) | Deep neural network for age estimation from facial images | Python, PyTorch |
-| [Parallel_Computing](https://github.com/bphilipose1/Parallel_Computing) | GPU-accelerated sorting (CUDA) + distributed K-Means (MPI) | CUDA, C++, MPI |
-| [ASD_GP_GCN](https://github.com/bphilipose1/ASD_GP_GCN) | ASD diagnosis on ABIDE I using graph neural networks | Python |
-| [DistributedHashTable](https://github.com/bphilipose1/DistributedHashTable_Implementation) | Distributed hash table implementation | Python |
-| [legalease](https://github.com/davay/legalease) | Legal document simplification tool | TypeScript |
+| [parallel-computing-algorithms](https://github.com/bphilipose1/parallel-computing-algorithms) | GPU-accelerated sorting (CUDA) + distributed K-Means (MPI) | CUDA, C++, MPI |
+| [distributed-systems-projects](https://github.com/bphilipose1/distributed-systems-projects) | Distributed systems implementations and algorithms | Python |
+| [simple-network-file-system](https://github.com/bphilipose1/simple-network-file-system) | Network file system implementation (CPSC 3500) | C++ |
+| [legalease](https://github.com/davay/legalease) | Legal document simplification via QLoRA fine-tuning + RAG | TypeScript, Python |
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=bphilipose1&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bphilipose1&layout=compact&theme=dark&hide_border=true&langs_count=8" />
@@ -42,7 +38,6 @@ I build systems at the intersection of AI, computer vision, and distributed comp
 ---
 
 ### 🔗 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bphilipose/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/bphilipose)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:philiposebenjamin@gmail.com)
