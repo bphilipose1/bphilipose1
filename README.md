@@ -1,6 +1,7 @@
 # Hi, I'm Benjamin Philipose
 **Algorithms Engineer @ Meta Reality Labs** · Seattle, WA
-I build systems at the intersection of AI, computer vision, and distributed computing. CS&E grad from Seattle University.
+
+I build systems at the intersection of AI, computer vision, and distributed computing. CS&E + Data Science grad from Seattle University.
 
 ---
 
@@ -20,12 +21,12 @@ I build systems at the intersection of AI, computer vision, and distributed comp
 ### 📌 Featured Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [autism-detection-gcn](https://github.com/bphilipose1/autism-detection-gcn) | ASD diagnosis on ABIDE I using graph neural networks on fMRI data | Python, PyTorch |
-| [AgeFacePredictionDNN](https://github.com/bphilipose1/AgeFacePredictionDNN) | Deep neural network for age estimation from facial images | Python, PyTorch |
-| [parallel-computing-algorithms](https://github.com/bphilipose1/parallel-computing-algorithms) | GPU-accelerated sorting (CUDA) + distributed K-Means (MPI) | CUDA, C++, MPI |
-| [distributed-systems-projects](https://github.com/bphilipose1/distributed-systems-projects) | Distributed systems implementations and algorithms | Python |
-| [simple-network-file-system](https://github.com/bphilipose1/simple-network-file-system) | Network file system implementation (CPSC 3500) | C++ |
-| [legalease](https://github.com/davay/legalease) | Legal document simplification via QLoRA fine-tuning + RAG | TypeScript, Python |
+| [autism-detection-gcn](https://github.com/bphilipose1/autism-detection-gcn) | Multi-stage GNN pipeline for ASD classification on ABIDE I fMRI data (graph pooling → MLP → population GCN, ~74% accuracy) | Python, PyTorch, PyTorch Geometric |
+| [distributed-systems-projects](https://github.com/bphilipose1/distributed-systems-projects) | Bitcoin P2P node, Bully Algorithm leader election, Chord DHT, and real-time Forex arbitrage detection via Bellman-Ford — all over raw sockets | Python |
+| [parallel-computing-algorithms](https://github.com/bphilipose1/parallel-computing-algorithms) | GPU-accelerated and multi-machine parallel algorithm implementations | CUDA, C++, MPI |
+| [AgeFacePredictionDNN](https://github.com/bphilipose1/AgeFacePredictionDNN) | Deep neural network for age estimation from facial images | Python |
+| [simple-network-file-system](https://github.com/bphilipose1/simple-network-file-system) | Network file system implementation over TCP | C++ |
+| [legalease](https://github.com/davay/legalease) | RAG-powered chatbot for WA State small business legal guidance | Python, TypeScript, FastAPI |
 
 ---
 
