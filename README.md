@@ -25,7 +25,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bphilipose1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Benjamin's GitHub statistics" />
+[![GitHub followers](https://img.shields.io/github/followers/bphilipose1?style=for-the-badge&logo=github&label=Followers&color=0f172a)](https://github.com/bphilipose1?tab=followers)
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbphilipose1&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=0f172a)](https://github.com/bphilipose1?tab=repositories)
+
 <img height="165" src="https://streak-stats.demolab.com?user=bphilipose1&hide_border=true&theme=transparent" alt="Benjamin's GitHub contribution streak" />
 
 </div>
