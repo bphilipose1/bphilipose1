@@ -21,28 +21,27 @@
 | **Edge ML Systems** | Model evaluation, quantization, C++ inference pipelines, and performance-aware deployment |
 | **ML Infrastructure** | GPU experimentation, distributed training, simulation, and reproducible evaluation workflows |
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bphilipose1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Benjamin's GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=bphilipose1&hide_border=true&theme=transparent" alt="Benjamin's GitHub contribution streak" />
+
+</div>
+
 ## 🚀 Selected Work
 
 - **🤖 Robotics & autonomy** — Co-led the AWS Availability Rover capstone: a semi-autonomous data-center monitoring platform combining LiDAR, thermal imaging, barcode vision, actuator control, and a multithreaded C++/Python sensor pipeline.
-
 - **🛰️ Autonomous-vehicle research** — Built low-latency C++/ROS 2 tooling to synchronize network and physics simulation for autonomous-vehicle evaluation at NIST. [Read the publication →](https://www.nist.gov/publications/feature-description-assessing-autonomous-vehicle-performance)
-
 - **🧠 [Autism Detection GCN](https://github.com/bphilipose1/autism-detection-gcn)** — Graph-learning research for fMRI classification, built with PyTorch and CUDA.
-
 - **⚡ [Parallel Computing Algorithms](https://github.com/bphilipose1/parallel-computing-algorithms)** — GPU and distributed algorithm implementations with CUDA, C++, and MPI.
-
 - **🌐 [Distributed Systems Projects](https://github.com/bphilipose1/distributed-systems-projects)** — A Bitcoin P2P node, leader election, Chord DHT, and Forex-arbitrage detection over raw sockets.
-
 - **📚 [Legalease](https://github.com/davay/legalease)** — A retrieval-augmented application for Washington small-business legal guidance.
 
-<details>
-<summary><b>🧰 Technical toolkit</b></summary>
-
-<br />
+## 🧰 Toolkit
 
 `Python` · `C++` · `PyTorch` · `JAX` · `TensorFlow` · `CUDA` · `ROS 2` · `TFLite` · `SLURM` · `Docker`
-
-</details>
 
 <div align="center">
 
